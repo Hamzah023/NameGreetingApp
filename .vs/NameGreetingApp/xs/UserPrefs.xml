@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9D764730-18DD-494E-ACC6-D6FFABC3C00C}|https">
+  <MonoDevelop.Ide.ItemProperties.NameGreetingApp FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NameGreetingApp/Models/NameModel.cs">
+    <Files>
+      <File FileName="NameGreetingApp/appsettings.json" Line="13" Column="1" />
+      <File FileName="NameGreetingApp/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="NameGreetingApp/Models/NameModel.cs" Line="7" Column="17" />
+      <File FileName="NameGreetingApp/data/AppDbContext.cs" Line="14" Column="1" />
+      <File FileName="NameGreetingApp/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="NameGreetingApp/Program.cs" Line="17" Column="27" />
+      <File FileName="NameGreetingApp/Controllers/NamesController.cs" Line="55" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NameGreetingApp" expanded="True">
+            <Node name="NameGreetingApp">
+              <Node name="data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="NameModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
